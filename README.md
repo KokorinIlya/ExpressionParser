@@ -17,3 +17,5 @@ Modes:
 5) "d" fro evaluating in double
 6) "f" for evaluating in float
 
+If you want to calculate expression value for x in range (x_1 ... x_2)
+
