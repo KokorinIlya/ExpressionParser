@@ -17,5 +17,5 @@ Modes:
 5) "d" fro evaluating in double
 6) "f" for evaluating in float
 
-If you want to calculate expression value for x in range (x~1 ... x~2)
+If you want to calculate expression value for x in range (x1 ... x2), y in range (y1 ... y2), z in range (z1 ... z2), use Tabulator.tabulate method
 
