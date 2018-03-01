@@ -7,5 +7,5 @@ Supports up to 3 different variables, constants, parenthesis and different arith
 
 To run Evaluator, use:
 
-java Evaluator <mode> <expression> <value of x> <value of y> <value of z>
+java Evaluator \<mode\> <expression> <value of x> <value of y> <value of z>
 
