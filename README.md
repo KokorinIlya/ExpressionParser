@@ -7,7 +7,7 @@ Supports up to 3 different variables, constants, parenthesis and different arith
 
 To run Evaluator, use:
 
-java Evaluator \<mode\> \<expression\> \<value of x\> \<value of y\> \<value of z\>
+*java Evaluator \<mode\> \<expression\> \<value of x\> \<value of y\> \<value of z\>*
 
 Modes:
 1) "i" for evaluating in integer
@@ -17,5 +17,5 @@ Modes:
 5) "d" fro evaluating in double
 6) "f" for evaluating in float
 
-If you want to calculate expression value for x in range (x1 ... x2), y in range (y1 ... y2), z in range (z1 ... z2), use Tabulator.tabulate method
+If you want to calculate expression value for x in range (x1 ... x2), y in range (y1 ... y2), z in range (z1 ... z2), use *Tabulator.tabulate* method
 
